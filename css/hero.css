@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header{
+    background-color: #F7F7F7;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    margin: 60px 0 10px;
+}
+
+header img {
+    width: 430px;
+    height: auto;
+}
+
+main{
+    background-color: #F7F7F7;
+}
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+main h2 {
+    color: #4C0202;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #4C0202;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+
+p.caption{
+    text-align: center;
+    margin: 0;
+    font-style: italic;
+}
